@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.API\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.API\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.API\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.API\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\dotnet-REST-API\\Creating-a-.NET-REST-API\\GameStore.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
